@@ -1,6 +1,6 @@
 /*
-PROG: ride
-LANG: C
+	PROG: ride
+	LANG: C
 */
 
 #include<stdio.h>
